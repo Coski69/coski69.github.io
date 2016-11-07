@@ -81,26 +81,26 @@ body {
 }
 
 #principal{
-	background-image: url("fondo-principal.jpg");
+	background-image: url("fondo_principal.jpg");
 	color: #fff
 }
 
 #servicios{
-	background-image: url("fondo-servicios.jpg");
+	background-image: url("fondo_servicios.jpg");
 	background-repeat: no-repeat;
 	/*background-size: 1000px 1000px;*/
 	color: #fff
 }
 
 #componentes{
-	background-image: url("fondo-componentes.jpg");
+	background-image: url("fondo_componentes.jpg");
 	background-repeat: no-repeat;
 	background-size: 1350px 1000px;
 	color: yellow;
 }
 
 #gamer{
-	background-image: url("fondo-gamer.jpg");
+	background-image: url("fondo_gamer.jpg");
 		background-repeat: no-repeat;
 
 		
@@ -109,21 +109,21 @@ body {
 }
 
 #tarifas{
-	background-image: url("fondo-tarifas.jpg");
+	background-image: url("fondo_tarifas.jpg");
 	background-repeat: no-repeat;
     background-size: 1350px 1000px;
 	color: red;
 }
 
 #contacto{
-	background-image: url("fondo-contacto.jpg");
+	background-image: url("fondo_contacto.jpg");
 	background-repeat: no-repeat;
     background-size: 1350px 1000px;
 	color: yellow;
 }
 
 #nosotros{
-	background-image: url("fondo-nosotros.jpg");
+	background-image: url("fondo_nosotros.jpg");
 		background-repeat: no-repeat;
 
 	color: yellow;
@@ -198,7 +198,7 @@ header {
 	margin:1%;
 	
 	
-	background-image: url("fondo-header.jpg");
+	background-image: url("fondo_header.jpg");
 	background-size:1200px 125px;
     background-repeat: no-repeat;
 	
@@ -282,7 +282,7 @@ aside {
 	color: black;
 	text-align:justify;
 	
-	background-image: url(fondo-aside.jpg);
+	background-image: url(fondo_aside.jpg);
 	margin-bottom: 20px;
 }
 aside h2{
@@ -309,7 +309,7 @@ footer{
 	border: 5px solid blue;
 	color: #fff;
 	text-align: center;
-	background: url("fondo-footer.jpg");
+	background: url("fondo_footer.jpg");
 	background-size: 1200px 120px;
 	margin-bottom: 20px;
 	margin-top: 30px;
